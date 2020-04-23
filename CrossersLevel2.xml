@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<Crossers>
+    <crosser>
+        <type>farmer1</type>
+        <weight>90</weight>
+        <canRaft>1</canRaft>
+        <id>1</id>
+    </crosser>
+   <crosser>
+        <type>farmer2</type>
+        <weight>80</weight>
+        <canRaft>1</canRaft>
+        <id>2</id>
+    </crosser>
+    <crosser>
+        <type>farmer3</type>
+        <weight>60</weight>
+        <canRaft>1</canRaft>
+        <id>3</id>
+    </crosser>
+   <crosser>
+        <type>farmer4</type>
+        <weight>40</weight>
+        <canRaft>1</canRaft>
+        <id>4</id>
+    </crosser>
+    <crosser>
+        <type>animal</type>
+        <weight>20</weight>
+        <canRaft>0</canRaft>
+        <id>5</id>
+    </crosser>
+</Crossers>
